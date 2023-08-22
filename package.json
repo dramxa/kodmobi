@@ -1,0 +1,48 @@
+{
+  "name": "admin-kodmobi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --port 3001",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.0",
+    "axios": "^0.26.1",
+    "chart.js": "^3.5.1",
+    "chartjs-adapter-moment": "^1.0.0",
+    "core-js": "^3.6.5",
+    "flatpickr": "^4.6.9",
+    "laravel-echo": "^1.12.1",
+    "moment": "^2.29.1",
+    "pusher-js": "^7.2.0",
+    "qrcode": "^1.5.1",
+    "swagger-vue": "^1.0.3",
+    "vue": "^3.0.0",
+    "vue-axios": "^3.4.1",
+    "vue-flatpickr-component": "^9.0.6",
+    "vue-router": "^4.0.0-0",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vue3-clipboard": "^1.0.0",
+    "vue3-cookies": "^1.0.6",
+    "vuejs-paginate-next": "^1.0.2",
+    "vuex": "^4.0.0-0",
+    "vuex-map-fields": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.2.20",
+    "autoprefixer": "^9.8.6",
+    "node-sass": "^4.12.0",
+    "postcss": "^8.3.9",
+    "sass": "^1.43.2",
+    "sass-loader": "^8.0.2",
+    "tailwindcss": "^3.0.18",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
