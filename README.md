@@ -1,3 +1,6 @@
+# Посмотреть можно тут:
+https://user.kod.mobi/
+
 # admin-kodmobi
 
 ## Project setup
